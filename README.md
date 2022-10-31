@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **avdeshg804@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1fAEgFT2CiiIuirjiVGk_CzG85mkH8gI6/view?usp=sharing](https://drive.google.com/file/d/1fAEgFT2CiiIuirjiVGk_CzG85mkH8gI6/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1fAEgFT2CiiIuirjiVGk_CzG85mkH8gI6/view?usp=sharing](https://drive.google.com/file/d/1e5qpVtpLltnledmvB3yMZeuVDFU7XbFF/view?usp=sharing)
 
 <!-- - ⚡ About Me: **I'm simple**  -->
 
