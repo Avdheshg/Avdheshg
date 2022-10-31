@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Java, MEN, Data Structure and Algorithms**
+- 💬 Ask me about **Data Structure and Algorithms, MEN stack, Core Java, and JavaScript **
 
 - 📫 How to reach me **avdeshg804@gmail.com**
 
