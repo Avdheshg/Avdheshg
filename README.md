@@ -1,6 +1,6 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Avduesh Gautam</h1>
-<h3 align="center">A passionate Backend Developer and Problem Solver from India</h3>
+<h3 align="center">A passionate Backend Developer and Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdheshg&label=Profile%20views&color=0e75b6&style=flat" alt="avdheshg" /> </p>
@@ -13,7 +13,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1fAEgFT2CiiIuirjiVGk_CzG85mkH8gI6/view?usp=sharing](https://drive.google.com/file/d/1fAEgFT2CiiIuirjiVGk_CzG85mkH8gI6/view?usp=sharing)
 
-- ⚡ About Me: **I'm simple**
+<!-- - ⚡ About Me: **I'm simple**  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
