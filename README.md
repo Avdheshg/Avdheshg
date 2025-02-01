@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently learning Node.js<br>Ask me about **Data Structure and Algorithms, MEN stack, Core Java, and JavaScript **<br>Email: avdeshg804@gmail.com<br>Resume: https://drive.google.com/file/d/11ZLl_0Uk49nAkeKCgzKPten8F78ngYWK/view?usp=sharing
-
+I’m currently learning Node.js<br>Ask me about ** JavaScript, Data Structure and Algorithms, Node, Express, MongoDB, and Core Java **<br>Email: avdheshg804@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avduesh-gautam-829569174/) 
