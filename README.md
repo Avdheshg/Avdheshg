@@ -51,7 +51,8 @@ Welcome to my GitHub! I'm passionate about building robust, scalable application
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url]([https://www.linkedin.com/in/avduesh-gautam/](https://www.linkedin.com/in/avduesh-gautam/)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avduesh-gautam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avdheshg.dev@gmail.com)
+
 
 ---
